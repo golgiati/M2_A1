@@ -1,4 +1,6 @@
-// Gustavo Olgiati
+// Name: Gustavo Olgiati
+// Student ID: 1216388953
+// Date: 8/30/2023
 
 var age = 10; // int
 var salary = 15.00; // double

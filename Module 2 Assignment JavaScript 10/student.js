@@ -1,3 +1,7 @@
+// Name: Gustavo Olgiati
+// Student ID: 1216388953
+// Date: 8/30/2023
+
 var students = [];
 
 var student = {

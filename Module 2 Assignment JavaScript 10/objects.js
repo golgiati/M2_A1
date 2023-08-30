@@ -1,3 +1,7 @@
+// Name: Gustavo Olgiati
+// Student ID: 1216388953
+// Date: 8/30/2023
+
 var students = ['John', 'Sammy', 'Jaime', 'Mike', 'Jane'];
 
 // console.log(students[0]);
